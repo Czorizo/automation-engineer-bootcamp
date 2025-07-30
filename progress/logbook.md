@@ -1,0 +1,1 @@
+markdown<br>2025‑07‑28<br>- Finished sections 1‑15 of *SQL from Scratch* (Udemy).<br>- Wrote SELECT/WHERE/… notes in sql‑course/notes.md.<br>
