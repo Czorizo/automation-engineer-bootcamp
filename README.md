@@ -1,16 +1,32 @@
-# Data & Automation Journey
+# Dev Learning Journal
 
-Hands‑on roadmap from zero to Data & Automation Engineer – courses, projects & daily logbook.
-
-## ► Right Now I'm Learning
-_e.g. “SQL fundamentals (Udemy) & Python Day 11 – Blackjack project”_
-
-## ► Repository Structure
-* **sql-course/** – notes and exercises from the Udemy MySQL course  
-* **python-course/** – mini–projects from _100 Days of Code_  
-* **docs/** – cheat‑sheets & reference materials  
-* **projects/** – bigger, standalone automation projects  
-* **progress/** – daily / weekly logbook  
+Hi, I’m **Adam Chorzelski** — Computer Science student at Silesian University of Technology (Faculty of AEI).  
+This is my **public learning journal**: notes, snippets, and small projects from everything I study on my IT journey.
 
 ---
-_This README is updated continuously while I progress._
+
+## 📂 What’s inside?
+
+- **sql/** – course notes & practice queries  
+- **leetcode/** – SQL & Python challenge solutions  
+- **docs/** – quick reference sheets & cheat‑sheets  
+- **progress/** – daily / weekly logbook  
+
+---
+
+## 📝 Commit style
+
+- `feat:` new exercises or mini‑projects  
+- `docs:` notes, README updates  
+- `chore:` repo cleanup & refactor  
+
+---
+
+## 🌱 Why public?
+
+Keeping this repo **open‑source** helps me stay consistent  
+and maybe it will inspire someone else learning the same things. 🚀
+
+---
+
+_Updated continuously as I progress._
