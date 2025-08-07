@@ -1,1 +1,3 @@
-markdown<br>2025‑07‑28<br>- Finished sections 1‑15 of *SQL from Scratch* (Udemy).<br>- Wrote SELECT/WHERE/… notes in sql‑course/notes.md.<br>
+2025-08-03 - Day 1: Setup 
+2025-08-04 - Day 2: finished Basic JOINs section
+2025-08-07 - Day 3: solve first LeetCode SQL problems and learn multi-table joins
